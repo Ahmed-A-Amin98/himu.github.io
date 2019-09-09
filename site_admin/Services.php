@@ -97,7 +97,7 @@
 
 			<div class="form col-lg-10 col-md-offset-2 marg">
 
-				<div class="modal fade" id="deleteslider" tabindex="-1" role="dialog" aria-labelledby="addsliderLabel" aria-hidden="true">
+				<div class="modal fade" id="deleteservice" tabindex="-1" role="dialog" aria-labelledby="addsliderLabel" aria-hidden="true">
 					<div class="modal-dialog" role="document">
 						<div class="modal-content">
 							<div class="modal-header">
